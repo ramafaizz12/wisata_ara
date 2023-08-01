@@ -1,0 +1,41 @@
+import 'dart:io';
+
+import 'package:cached_network_image/cached_network_image.dart';
+import 'package:carousel_slider/carousel_slider.dart';
+import 'package:fading_edge_scrollview/fading_edge_scrollview.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:flutter_svg/svg.dart';
+import 'package:google_maps_flutter/google_maps_flutter.dart';
+import 'package:provider/provider.dart';
+import 'package:translator/translator.dart';
+import 'package:url_launcher/url_launcher.dart';
+import 'package:wisata_ara/UI/pages/Wrapper.dart';
+
+import '../../Services/Firebaseservices.dart';
+import '../../Services/services.dart';
+import '../../bloc/MultiLanguage/translate_bloc.dart';
+import '../../bloc/budaya/budaya_bloc.dart';
+import '../../bloc/paketwisata_bloc.dart';
+import '../../bloc/translatorbloc/translator_bloc.dart';
+import '../../bloc/umkm/umkm_bloc.dart';
+import '../../bloc/wisata/wisata_bloc.dart';
+import '../../shared/style.dart';
+import '../Widgets/widgets.dart';
+
+part 'SplashScreen.dart';
+part 'HomeScreen.dart';
+part 'DetailUmkm.dart';
+part 'HalamanPencarian.dart';
+part 'HalamanTentangApp.dart';
+part 'HomePage.dart';
+part 'HalamanDetailBudaya.dart';
+part 'HalamanWisata.dart';
+part 'HalamanDetailWisata.dart';
+part 'HalamanUMKM.dart';
+part 'DeletepageWisata.dart';
+part 'LoginPage.dart';
+part 'InputPage.dart';
+part 'DeletePagePaketWisata.dart';
+part 'DeletePageUmkm.dart';
+part 'DeletePageBudaya.dart';

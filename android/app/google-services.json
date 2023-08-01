@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "360988661970",
+    "project_id": "wisataara",
+    "storage_bucket": "wisataara.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360988661970:android:c81ca93fc29697ae46350b",
+        "android_client_info": {
+          "package_name": "com.example.fltter_firebse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360988661970-4t12e9cp2sqmeodcpv1dn9qoe9315f0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6oHk7vY2ryuulTys-XKIBj1DuuJOi5M8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360988661970-4t12e9cp2sqmeodcpv1dn9qoe9315f0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360988661970:android:329aa4a5dda8aecf46350b",
+        "android_client_info": {
+          "package_name": "com.example.wisata_ara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360988661970-4t12e9cp2sqmeodcpv1dn9qoe9315f0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6oHk7vY2ryuulTys-XKIBj1DuuJOi5M8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360988661970-4t12e9cp2sqmeodcpv1dn9qoe9315f0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
